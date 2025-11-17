@@ -29,13 +29,60 @@ Here and throughout your edition, you should use footnotes in Chicago Notes and 
 
 # The Source
 
-This section provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material.
+TRANSCRIPTION (underlined was underlined by Gardner; italicized was circled by Gardner)
 
-For the presentation of some sources, it may make sense to break up the presentation into multiple pages. For that, as needed, we can use a more book like template (binding multiple pages together) that I can provide. Nonetheless, this page should be the page from which all presentations of the source itself start.
 
-This may also be a space where editorial annotations are provided, such as notes on provenance, archival location, transcription, and more. If possible, a link to the source’s permanent digital location should be included here as well as a citation for that location. This should be done in consultation with the instructors, editorial board, and peer reviewers.
+STRANGE LOOP GAZETTE
+The official Gödel Escher Bach fan newsletter.
 
-Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
+volume 1, number 2
+
+November 16, 1978
+Scott Kim
+Box 9414
+Stanford, CA 94305
+
+Martin Gardner
+10 Euclid Avenue
+Hastings-on-Hudson
+New York 10706
+
+Dear Martin,
+
+	Here I am, much to my surprise, back at Stanford, this time in the guise of a computer science graduate student. I’m currently listed as a Master’s student, but will certainly have to switch to PhD in order to do research. It would have been nice to have gone to another school (I may still), but I’ve by no means exhausted the possibilities here. I’ll probably work on computer graphics/music, with the goal of creating a computer graphics setup for extending my visualization skills (towards mathematical, artistic, or other ends). Then there is always the danger that I will run off and become an animator.
+	Doug Hofstadter is now putting the final touches on his “Gödel Escher Bach” manuscript. He decided to do all the typesetting and illustrating himself. There are some 50 drawn illustrations, and perhaps 600 pages of text, so this is no mean feat. But he (and I) find considerable satisfaction in “handcrafting” the book, following it through its entire production. After all, the layout and choice of typestyle makes an enormous aesthetic difference. Besides, if his publisher is relieved of most production costs, the book can probably be sold for a much lower price.
+	Incidentally, typesetting the book means taking the manuscript, which is already in computer readable form, inserting special symbols which describe which typefaces to use and various spacing information, and feeding it all to a special photo-typesetting machine. This has the amusing aspect that his manuscript must first be muddied up with all manner of editorial remark (in this case directed towards the photo-typesetting machine) before it can emerge in its final pure form. In this case the final form is long rolls of 8 1/2 inch-wide photographic paper, which Basic Books will cut and paste into book-shaped pages.
+	Seeing that the publisher Basic Books is planning to release GEB soon (March 1979), I thought that I should write to urge you to devote a column to the book. GEB is enormously important to me (I feel quite privileged to have watched the book develop), and I want to do everything I can to help it reach its audience.
+Doug informs me that you do not currently have a copy of the manuscript. Basic will send you one soon I’m sure, but even with the manuscript, the sheer size, makes it difficult to sort out material appropriate for your column. So here are what I consider some of the highlights. (Note: there is more to this letter, but in the interest of timeliness, I’m sending you as much as I have done. More to come later.)
+
+(transcription of section 7, magic, and section 8, structural puns)
+
+7: Magic
+An analogy which Doug doesn’t use: “AI is magic”. True, but most people don’t understand magic. Magicians use all sorts of perpetual tricks to guide beliefs. Unless one is acquainted with this power, it all does seem “like magic”. In AI, formal rules are used to model informal systems. Unless one is acquainted with the power of formal systems, the thought of artificial intelligence seems “magical”. GEB gives the reader insight into the power of formal languages, and thus indicates the road to demystifying intelligence. Of course saying that intelligence might have a mechanical basis does not make it any less magical, someone who knows how the tricks are done does not make it any less magical; someone who knows how the tricks are done is only that much more appreciative of the illusionist’s skill.
+A specific misdirection technique which appears prominently in GEB is the idea of framing. For instance, the best way to convince an audience that there is nothing “tricky” going on is to create a small doubt, then dispel it. The doubt sets the frame of expectations. The audience will expect no more tricks once the doubt is resolved. Framing devices are often used in advertisement to convince you that claims are genuine.
+Finally, GEB abounds with “magical” coincidences. For instance, it hardly seems possible that the Goldbach conjecture and the Goldberg Variations were proposed/composed in the same year. How could Doug have predicted such serendipity? The answer of course is that he didn’t. The source material for GEB is so rich that such coincidences could hardly be avoided. Once Doug made some curious observation, previous passages were rewritten to make the connection seem preordained. This is known in magic circles as “goal switching”. Again, knowing how it’s done does not in any way detract from the enjoyment.
+
+8: Structural puns
+GEB is constructed around two complementary ideas: “structural puns” and “jumping out of the system”. “Structural pun” is a term I am coining to describe what Doug does in his dialogues; “jumping out of the system” is an all-purpose escape from structural tangles.
+Puns are based on the possibility that a single word may have two different meanings. Normally the two meanings are “at the same level” though they may be in different classes – “bare skin” and “bear skin” both refer to things out in the real world, even though “bare” is an adjective and “bear” is a noun being used as an adjective.
+In a “structural” pun, at least one meaning refers not to the world out there, but to some aspect of language itself. Examples:
+
+(1)	This page intentionally left blank.
+(2)	I’m the world’s most modest person.
+(3)	?tfel ot thgir morf gnidaer uoy era yhW
+(4)	This sentence no verb.
+(5)	What do I do if I run into a problem?
+If you have any problems, just ask.
+(6)	Gebstadter, Egbert B. Copper, Silver, Gold: an Indestructible Metallic Alloy. 
+Perth: Acidic Books, 1979.
+
+A formidable hodge-podge, turgid and confused–yet similar in spirit to the present work. Contains some excellent examples of indirect-self-reference. Of particular interest is a reference in its well-annotated bibliography to an isomorphic, but imaginary, book.
+In all cases, the form, the phrasing of the sentence, interacts with its content. Example (1) actually appears (especially in government documents), which makes it all the funnier. Example (2) is irony of a form which often appears in comedy. Example (3) is a rather smart-aleck remark, which, unlike the previous two examples, does not rely on paradox for its humor. Example (4) is not paradoxical either, but requires some quite subtle analysis on the part of the reader. (This sentence appears as an example in the chapter entitled “Self-ref and self-rep”.) Example (5) requires a previous sentence to set the context in which the statement is made. Example (6) requires the most elaborate context of all–the whole of GEB. This description appears in the bibliography of GEB, and requires (among other things) that the reader be looking for tricky acronyms.
+Structural puns are used throughout the dialogues of GEB to multiply illustrate certain patterns of thought useful in discussing logic and intelligence. For instance, the dialogue “Sonata for Unaccompanied Achilles” illustrates the idea of figure and ground through both its form (on end of a telephone conversation) and its content (an analysis of an interlocking Escher print). This dual approach enriches the texture of the illustration, with the implicit irony that Achilles does not notice the double meanings of his solo. Here Doug is borrowing a technique from music–theme and variation.
+The continued use of form/content reverberation also sets up the important notion of indirect self-reference–in discussing Eschers’ figures and grounds, Achilles is implicitly and only implicitly talking about the structure of his phone conversation. Indirect self-reference figures strongly in the proof of Gödel’s incompleteness theorem.
+Structural puns have occurred before in the literature; GEB goes further in the depth and consistency to which the idea is applied. The whole book is itself a “strange loop”, as explained in “Overall form”. Finally, the concept of “structural pun” is being used in two different senses: as a form in which to write dialogues, and as an illustration of indirect self-reference. This double meaning is in turn another structural pun, which means there are structural puns on three levels, which means there are structural puns on four levels, which means…
+(I think.) ((I think.)) (((I think.))) ((((I think.)))) …
+
 
 # About this Source
 
