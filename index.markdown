@@ -147,7 +147,35 @@ Should you wish to include any supplemental materials--such as specific forms of
 
 # Bibliography
 
-This section should provide a bibliography of all sources cited in your work as well as 
+Abeles, Francine F. “Mathematics: Logic and Lewis Carroll.” Nature 527, no. 7578 (2015): 302–4. 111069800. https://doi.org/10.1038/527302a. 
+
+Fandom. 2025. “Gödel, Escher, Bach Wiki.” Fandom.com. 2025. https://godel-escher-bach.fandom.com/wiki/G%C3%B6del.
+
+Gaisman, Jonathan. “The Heart of the Fugue.” The New Criterion (UNITED STATES) 42, no. 9 (2024): 77–80. A2417001. https://research-ebsco-com.proxy2.library.illinois.edu/linkprocessor/plink?id=0a9bdc05-6b46-35d5-b973-4236689ff5a7
+ 
+Game Thinking TV, dir. How AI Pioneer Doug Hofstadter Wrote Gödel, Escher, Bach. 2023. https://www.youtube.com/watch?v=JYZcHSqqxtg. 
+
+Gardner, Martin. “Mathematical Games: The Inspired Geometrical Symmetries of Scott Kim.” Scientific American. Scientific American, Inc, 1981. doi:10.1038/scientificamerican0681-22.
+
+Gardner, Martin. “Mathematical Games: Douglas R. Hofstadter’s “Godel, Escher, Bach.” Scientific American 241, no. 1 (1979): 16–28. http://www.jstor.org/stable/24965235.
+
+Hofstadter, Douglas R. Godel, Escher, Bach: An eternal golden braid. New York: Basic Books, 1979. 
+
+Infinite Negative Utility. 2018. “Why I Don’t Love Gödel, Escher, Bach.” Infinite Negative Utility. July 4, 2018. https://journal.infinitenegativeutility.com/why-i-dont-love-godel-escher-bach.
+
+Masood, Adnan. 2025. “Hofstadter’s Gödel, Escher, Bach: An Eternal Golden Braid Review— Choosing an Operating Model Under….” Medium. August 20, 2025. https://medium.com/@adnanmasood/hofstadters-g%C3%B6del-escher-bach-an-eternal-golden-braid-choosing-an-operating-model-under-df35a183372e.
+
+Mirsky, Steve. “Remembering Martin Gardner, with Douglas Hofstadter.” Scientific American, May 24, 2010. https://www.scientificamerican.com/podcast/episode/remembering-martin-gardner-with-dou-10-05-24/.
+
+MIT. 2025. “MIT OpenCourseWare.” MIT OpenCourseWare. November 3, 2025. https://mitocw.zendesk.com/hc/en-us/articles/5332864282907-Highlights-for-High-School.
+
+Mulcahy, Colm, and Dana Richards. “Let the Games Continue.” Scientific American 311, no. 4 (2014): 90–95. 98530162. https://doi.org/10.1038/scientificamerican1014-90. 
+
+Newborn, M. (2011c). Beyond Deep blue: Chess in the Stratosphere. Springer Science & Business Media.
+
+Peters, Michael A., et al. ‘AI and the Future of Humanity: ChatGPT-4, Philosophy and Education – Critical Responses’. Educational Philosophy and Theory, vol. 56, no. 9, July 2024
+
+Somers, James. “The Man Who Would Teach Machines to Think. (Douglas Hofstadter).” The Atlantic Monthly. Boston: Atlantic Media, Ltd, Nov. 2013.
 
 # Credits and Acknowledgments
 
