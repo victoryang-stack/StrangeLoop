@@ -17,7 +17,7 @@ Included in this edition is a transcription of the document, annotated for moder
 **How to Cite:**
 Here, provide a citation using this model:
 
-> Lastname, Firstname, FirstName LastName, and FirstName, Lastname. “Title of Web Page.” Name of Website (if different from web page). Publication or Revision Date. URL.
+ > Lastname, Firstname, FirstName LastName, and FirstName, Lastname. “Title of Web Page.” Name of Website (if different from web page). Publication or Revision Date. URL.
 
 Your teams have multiple authors.  In scholarship, if authorship is equal across all team members, then the custom is to list by last name them in alphabetical order.  If you wish to deviate from this order you can but that will communicate priority (i.e. that the one who goes first is the 'lead author', etc.).
 
