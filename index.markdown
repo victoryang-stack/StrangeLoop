@@ -15,15 +15,8 @@ The copy of the Strange Loop Gazette seen here was discovered in the Stanford Un
 Included in this edition is a transcription of the document, annotated for modern readers and supplemented with scans of the original. Also included are in-depth descriptions of this document and its context for the curious. The edition is also peppered with images to convey some of the more difficult philosophical concepts. Presented here is a new Gödel, Escher, Bach care package. Below begins your adventure.
 
 **How to Cite:**
-Here, provide a citation using this model:
 
- > Lastname, Firstname, FirstName LastName, and FirstName, Lastname. “Title of Web Page.” Name of Website (if different from web page). Publication or Revision Date. URL.
-
-Your teams have multiple authors.  In scholarship, if authorship is equal across all team members, then the custom is to list by last name them in alphabetical order.  If you wish to deviate from this order you can but that will communicate priority (i.e. that the one who goes first is the 'lead author', etc.).
-
-If you choose and wish to do so, you may also include a Creative Commons license here. We'll discuss those in class.
-
-Here and throughout your edition, you should use footnotes in Chicago Notes and Bibliography style.[^1]  Please note that if sources are listed in your bibliography (and all your main ones should be), you may use a shortened form in these notes (e.g. Smith, _Towards a Better Understanding_, 5, with the full citation to Smith going in the bibliography).
+Schultz, Julia, Alex Von Holten, Ewan Ward, and Yang, Victor. "Strange Loop.". December 7th, 2025. https://victoryang-stack.github.io/StrangeLoop/.
 
 # The Source
 
