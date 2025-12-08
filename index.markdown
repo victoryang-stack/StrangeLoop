@@ -50,6 +50,8 @@ Incidentally, typesetting the book means taking the manuscript, which is already
 Seeing that the publisher Basic Books is planning to release GEB soon (March 1979), I thought that I should write to urge you to devote a column to the book. GEB is enormously important to me (I feel quite privileged to have watched the book develop), and I want to do everything I can to help it reach its audience.
 
 Doug informs me that you do not currently have a copy of the manuscript. Basic will send you one soon I’m sure, but even with the manuscript, the sheer size, makes it difficult to sort out material appropriate for your column. So here are what I consider some of the highlights. (Note: there is more to this letter, but in the interest of timeliness, I’m sending you as much as I have done. More to come later.)[^4]
+
+{% include media_next.html pages=media %}
   
 ##### (transcription of section 7, magic, and section 8, structural puns)
 
@@ -60,6 +62,8 @@ An analogy which Doug doesn’t use: “AI is magic”. True, but most people do
 A specific misdirection technique which appears prominently in GEB is the idea of framing. For instance, the best way to convince an audience that there is nothing “tricky” going on is to create a small doubt, then dispel it. The doubt sets the frame of expectations. The audience will expect no more tricks once the doubt is resolved. Framing devices are often used in advertisement to convince you that claims are genuine.
 
 Finally, GEB abounds with **“magical” coincidences.** For instance, it hardly seems possible that the *Goldbach* **conjecture and the Goldberg Variations were proposed/composed in the same year.** How could Doug have **predicted such serendipity?** The answer of course is that he didn’t. The source material for GEB is so rich that such **coincidences could hardly** be avoided. Once Doug made some curious observation, previous passages were rewritten to make the connection seem preordained. This is known in magic circles as **_“goal switching”.[^5]_** Again, knowing how it’s done does not in any way detract from the enjoyment.
+
+{% include media_next.html pages=media %}
   
 8: Structural puns
   
@@ -93,6 +97,9 @@ The continued use of form/content reverberation also sets up the important notio
 Structural puns have occurred before in the literature; GEB goes further in the depth and consistency to which the idea is applied. **The whole book is itself a _“strange loop”_,[^7]** as explained in “Overall form”. Finally, the concept of “structural pun” is being used in two different senses: as a form in which to write dialogues, and as an illustration of indirect self-reference. This double meaning is in turn another structural pun, which means there are structural puns on three levels, which means there are structural puns on four levels, which means…
 
 (I think.) ((I think.)) (((I think.))) ((((I think.)))) 
+
+{% include media_next.html pages=media %}
+{% include media_next.html pages=media %}
 
 # About this Source
 
