@@ -51,7 +51,7 @@ Seeing that the publisher Basic Books is planning to release GEB soon (March 197
 
 Doug informs me that you do not currently have a copy of the manuscript. Basic will send you one soon I’m sure, but even with the manuscript, the sheer size, makes it difficult to sort out material appropriate for your column. So here are what I consider some of the highlights. (Note: there is more to this letter, but in the interest of timeliness, I’m sending you as much as I have done. More to come later.)[^4]
 
-## Original Text:
+#### Original Text:
 
 {% include media_next.html pages=media&}
   
