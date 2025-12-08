@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/Images/IMG_0202.jpeg 
+_path: /assets/img/Images/Strange Loop.jpeg 
 order: '01'
 layout: image_description
 ---
