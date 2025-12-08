@@ -3,7 +3,7 @@ layout: single_page
 ---
 
 <p align="center">
-  <img src="/assets/Strange Loop.jpeg" alt="Cover" style="max-width: 100%; height: auto;">
+  <img src="/assets/img/Images/Strange Loop.jpeg" alt="Cover" style="max-width: 100%; height: auto;">
 </p>
 
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
