@@ -144,8 +144,6 @@ This edition presents an annotated transcription of Scott Kim’s Strange Loop, 
 
 In the original text, there are several places where we opted to explain the context of the specific sentence/line/concept. These are footnotes that we have added on the transcription that we have created. Our transcriptions were written by hand based on the original correspondence that Kim wrote. While we currently don’t have the entirety of Strange Loop transcribed, we have included several excerpts that show the depth of Kim’s ideas that he engages with in the text. To allow for further accuracy in our edition, we’ve also added image scans of the original alongside our transcriptions, helping to clarify changes and annotations made.
 
-In addition to the transcriptions of Strange Loop we have also included photos that support the ideas highlighted in Strange Loop, along with their respective metadata. A few of these being pieces directly referred to by Kim; (adding names after fact-checking), as well as some puzzles or puns Kim uses.
-
 # Supplements
 
 Should you wish to include any supplemental materials--such as specific forms of source commentary or illustrations--they may be provided here.  They are not required. If you do not have any supplements, please eliminate this field.
@@ -206,6 +204,6 @@ _Please leave this credit (eliminating this italicized part)_
 [^7]: This was an intellectual wellspring for Hofstadter, who would later expand on this idea in his 2007 book *I Am a Strange Loop.*
 [^8]: Gardner, “Mathematical Games.”
 [^9]: Game Thinking TV, How AI Pioneer Doug Hofstadter Wrote Gödel, Escher, Bach.
-[^10]: Mulcahy and Richards, "Let the Games Continue."
+[^10]: Mulcahy and Richards, "Let the Games Continue," pp. 1-2.
 [^11]: Game Thinking TV, How AI Pioneer Doug Hofstadter Wrote Gödel, Escher, Bach; Mirsky, "Remembering Martin Gardner with Douglas Hofstadter."
 [^12]: Game Thinking TV, How AI Pioneer Doug Hofstadter Wrote Gödel, Escher, Bach.
