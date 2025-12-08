@@ -4,9 +4,10 @@ layout: single_page
 
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
-{% include media_next.html pages=media %}
 
 # Introduction
+
+{% include media_next.html pages=media %}
 
 Strange Loop Gazette lies at the intersection of philosophy and artificial intelligence as it stood in the 1970s. It is a brilliant insight into a unique intellectual environment. Three men were involved in this document: Scott Kim, Martin Gardner, and Douglas Hofstadter. Douglas Hofstadter wrote the nonfiction philosophical work Gödel, Escher, Bach: An Eternal Golden Braid. Scott Kim wrote the Strange Loop Gazette, which summarized Hofstadter’s work. And Kim sent the Gazette to Martin Gardner, a columnist of Scientific American magazine whose review of Gödel, Escher, Bach catapulted Hofstadter to a Pulitzer Prize. This document is at the center of that story, providing key insight into technological dreamings of the late 1970s. It was the Strange Loop Gazette that introduced Gardner to Gödel, Escher, Bach, and today it has become more relevant than ever and just as effective.
 
