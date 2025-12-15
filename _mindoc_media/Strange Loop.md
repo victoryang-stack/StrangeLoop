@@ -4,16 +4,16 @@ title: Strange Loop
 media_type: image
 
 _title: Strange Loop
-description: Strange Loop Cover
-creator: Unknown
-_date: Unknown
-rights: 
-type: 
-source:
-identifier:
-contributor:
+description: Strange Loop Title Card
+creator: Scott Kim
+_date: 11/16/1978
+rights: Public domain. Consent given by Scott Kim and Glen Layne-Worthey, who obtained the scans.
+type: Image
+source: Archival Collections at Stanford, Call Number SC0647, Box 48, Folder 11.
+identifier: https://archives.stanford.edu/catalog/sc0647
+contributor: 
 format:
-credit_(IPTC):
+credit_(IPTC): Digitization by Glen Layne-Worthey, courtesy of Archival Collections at Stanford
 date_created_(IPTC):
 
 _path: /assets/img/Images/Strange Loop.jpeg 
